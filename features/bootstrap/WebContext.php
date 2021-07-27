@@ -7,6 +7,7 @@ use Medology\Behat\GooglePlaceAutocomplete\Contexts\GooglePlaceAutocompleteConte
 
 /**
  * Used for interacting with the site as a web page.
+ * Making small change to run CI
  */
 class WebContext extends FlexibleContext implements Context
 {
